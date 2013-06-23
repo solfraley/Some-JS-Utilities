@@ -1,1 +1,5 @@
-A reimplementation of JavaScript's Underscore library by Sol Fraley.
+A reimplementation of parts of JavaScript's popular Underscore library by Sol Fraley.
+
+A library like underscore is essentially a module of code fragments for common operations and an interface to easily access those opertations by a fitting name(something that hints at what they do) given to them.  This save a lot of detail work when it come to building bigger applications.
+
+Playing around with these is tremendously rewarding.  These basic utilities are used over and over and as they are so common place they are often taken for granted.  But working through how they can be implemented not only brings an awareness of how they actually work, but also helps one to recognize reoccurring techniques that are helpful for solving problems at higher levels as well.  In the JS file I've written a little comment to remember what each does, try implementing these yourself it is great fun!
